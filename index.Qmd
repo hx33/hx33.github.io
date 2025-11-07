@@ -1,0 +1,38 @@
+---
+title: "About me"
+format:
+  html: 
+    theme: cosmo
+    toc: true
+    output-file: index.html
+editor: visual
+---
+
+\![\](me.jpg)
+
+Hello everyone, my name is Haiyu Xiao, I'm a graduate student in the DSAN program at Georgetown University. I'm from China, and I have been in the US since 2015 when I went to high school at Harding Academy in Searcy, Arkansas. My undergraduate was at University of Washington in Seattle where I studied applied math and graduated in 2022. As you can see, I have been in different places in the US in 8 years time, I were exposed in many unique cultures and got to know a lot of interesting people. I liked the years Seattle very much because of the good weather and diverse environment, but I think the others places I've been to were nice as well.
+
+\
+Since I got into my major during undergraduate, I have been learning about using math tools to solve problems in real life, and after joining the DSAN program here I am very sure that throughout the program I will have better pictures of what a good data scientist or analyst should be capable of. In my spare time, I like to exercise and do sports like soccer and ping pong, watch movies and TV shows, listening to music and play games. I also enjoy going out with friends for fun.
+
+## Education
+
+2018------2022: University of Washington, Bachelor of Science in Applied Mathematics
+
+2022------2024: Georgetown University, Master of Science in Data Science & Analytics
+
+## Projects:
+
+[Time series Analysis on Predicting Crops Production](https://hx111.georgetown.domains/560_website/)
+
+[Data Visualization Group Project: Refugee Crisis in Europe in the 21st Century](https://hx111.georgetown.domains/European_Refugee_Crisis.html)
+
+## Contact me:
+
+hx111\@georgetown.edu
+
+571-275-2536
+
+## 
+
+\
