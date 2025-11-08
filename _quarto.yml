@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: "."      # write the HTML right next to index.qmd
+
+website:
+  title: "Haiyu Xiao"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+# Make sure static assets get copied (use folder form to include all)
+resources:
+  - images/
