@@ -23,7 +23,7 @@ Since I got into my major during undergraduate, I have been learning about using
 
 ## Projects:
 
-[Time series Analysis on Predicting Crops Production](https://hx111.georgetown.domains/560_website/)
+[Time series Analysis on Predicting Crops Production](https://hx33.github.io/crop_yield_prediction/)
 
 [Data Visualization Group Project: Refugee Crisis in Europe in the 21st Century](https://hx111.georgetown.domains/European_Refugee_Crisis.html)
 
