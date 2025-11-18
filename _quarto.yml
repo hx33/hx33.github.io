@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: "."      # write the HTML right next to index.qmd
+  resources:
+    - cv/
 
 website:
   title: "Haiyu Xiao"

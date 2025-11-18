@@ -23,6 +23,12 @@ Hello everyone, I'm a graduate student in the DSAN program at Georgetown Univers
 
 [Big Data Project: Analysis of Recent Reddit Data about Soccer](https://hx33.github.io/reddit_big_data_soccer/)
 
+[Data Visualization Project: Refugee Crisis in Europe in the 21st Century](https://hx33.github.io/data_visulization_refugee/)
+
+## CV
+
+Download my CV (PDF) at [here](cv/Haiyu_Xiao_CV.pdf){target="_blank"}
+
 ## Contact me:
 
 hx111\@georgetown.edu
