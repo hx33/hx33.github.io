@@ -19,11 +19,11 @@ Hello everyone, I'm a graduate student in the DSAN program at Georgetown Univers
 
 ## Projects:
 
-[Time series Analysis on Predicting Crops Production](https://hx33.github.io/crop_yield_prediction/)
+Time series Analysis on Predicting Crops Production
 
-[Big Data Project: Analysis of Recent Reddit Data about Soccer](https://hx33.github.io/reddit_big_data_soccer/)
+Big Data Project: Analysis of Recent Reddit Data about Soccer
 
-[Data Visualization Project: Refugee Crisis in Europe in the 21st Century](https://hx33.github.io/data_visulization_refugee/)
+Data Visualization Project: Refugee Crisis in Europe in the 21st Century
 
 ## CV
 
