@@ -17,6 +17,14 @@ Hello everyone, I'm a graduate student in the DSAN program at Georgetown Univers
 
 2022------2024: Georgetown University, Master of Science in Data Science & Analytics
 
+## Research
+
+#### Injury Severity in Fatal Single-Vehicle Crashes: The Role of Restraint Use and Vehicle Size.
+
+Accepted for publication in ICMRA 2025 (forthcoming).\
+\
+[Download Paper (PDF)](papers/Injury_Severity_in_Fatal_Single_Vehicle_Crashes.pdf)
+
 ## Projects:
 
 Time series Analysis on Predicting Crops Production
